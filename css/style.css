@@ -108,6 +108,7 @@ header ul li a:hover {
 }
 .banner h2 {
   margin-bottom: 10px;
+  inline-size: auto;
 }
 .banner p {
   font-size: 18px;
